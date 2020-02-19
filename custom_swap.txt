@@ -1,0 +1,23 @@
+# requires a unix compatible editor like NotePad++ 
+###################################################
+#                                                 #
+#  AutoBouquets E2 - custom service swap manager  #
+#                                                 #
+#  service data can be found in autobouquets.csv  #
+#                                                 #
+###################################################
+
+#swap local SD with HD
+101=115
+102=802
+103=803
+104=138
+105=805
+
+#BBC Four
+116=815
+
+#BBC NEWS
+503=877
+
+#end
